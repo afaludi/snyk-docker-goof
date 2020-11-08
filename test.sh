@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 #some comment here
 #put some more code in
+echo "hello world" 
 
 pushd "$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )" >/dev/null
 
